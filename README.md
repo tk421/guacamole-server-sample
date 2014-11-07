@@ -1,7 +1,7 @@
 guacamole-server-sample
 =======================
 
-Guacamole Server application Example helps you to get started with guacamole server 
+Guacamole Server application Example helps you to [get started](http://guac-dev.org/doc/gug/writing-you-own-guacamole-app.html) with guacamole server 
 if you want to create a fully customized application. 
 
 You can see the whole configuration of compiling and installing the whole application at https://manageacloud.com/cookbook/guacamole_server_integrated_with_custom_application
